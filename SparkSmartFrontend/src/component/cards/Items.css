@@ -1,0 +1,32 @@
+.bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+      max-height: 300px ;
+      max-width: 250px;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+
+    .card{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .ItemCount{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0px;
+    }
+
+    .productcount{
+      padding: 10px ;
+    }

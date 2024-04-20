@@ -1,0 +1,9 @@
+.productImage{
+      max-height: 200px;
+}
+
+#checkoutBtn{
+      position: relative;
+      left : 70%;
+      margin: 20px 0px ; 
+}

@@ -1,0 +1,18 @@
+#carouselExampleRide{
+      display: flex;
+      justify-content: center;
+      height: 380px;
+      margin: 10px auto;
+      width: 90%;
+}
+
+.carousel-inner{
+      border-radius: 25px;
+      display: flex;
+      /* justify-content: center; */
+      align-items: center;
+}
+
+.productsHeader{
+      margin-top: 20px;
+}

@@ -1,0 +1,13 @@
+.container {
+      padding: 0px;
+      margin: 0px;
+      width: 100% !important;
+      height: 100% !important;
+      /* background-color: blue; */
+}
+
+.row {
+          padding: 0px;
+      margin : 0px
+    }
+    
